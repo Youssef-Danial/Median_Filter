@@ -1,3 +1,3 @@
 # Median_Filter
-median filters to work with grayscale images
+median filter to work with grayscale images
 
